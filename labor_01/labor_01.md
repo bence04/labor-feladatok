@@ -292,7 +292,7 @@ Az *Xcode* által generált projekt sémában alapból a `LaunchScreen.storyboar
 | `⌃+Space`/`Esc`    | Kód kiegészítés ("intellisense", autocomplete). |
 | `⌃+⌘+Fel`          | Vátlás header/implementáció között. |
 | `⌃+⌘+Bal/Jobb`     | Váltás vissza/előre a legutóbb szerkesztett fájlok között. |
-| `⌘+⇧+O`            | Gyorskeresés/uggrás fájlnévre vagy szimbólumra. |
+| `⌘+⇧+O`            | Gyorskeresés/ugrás fájlnévre vagy szimbólumra. |
 | `⌘+⇧+F`            | Keresés sztringre a teljes projektban. |
 | `⌃+⌘+klikk`        | A megklikkelt osztály/azonosító definíciójára/deklarációjára való ugrás. |
 | `⌥+klikk`          | A megklikkelt osztály rövidített dokumentációjának megjelenítése. |
